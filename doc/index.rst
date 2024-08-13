@@ -8,8 +8,10 @@ Sphinx-test documentation
 
 Indices and tables
 ==================
+
+Indices and tables
+==================
+
 * :ref:`genindex`
 * :ref:`modindex`
-* :ref:`search`
-* :ref:`api-reference`
-* :doc:`Simple API reference <source/api_reference>`
+* :doc:`API reference <source/api_reference>`
