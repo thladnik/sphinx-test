@@ -6,12 +6,14 @@ Sphinx-test documentation
    :maxdepth: 2
    :caption: Contents:
 
-Indices and tables
+Contents
 ==================
+* :doc:`Installation guide <source/installation_guide>`
+* :doc:`Quickstart guide <source/quickstart_guide>`
+* :doc:`API reference <source/api_reference>`
 
-Indices and tables
+Indices
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
-* :doc:`API reference <source/api_reference>`
