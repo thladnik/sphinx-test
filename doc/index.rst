@@ -11,4 +11,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* :ref:`source/api_reference`
+* :ref:`api-reference`
