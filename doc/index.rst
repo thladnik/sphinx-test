@@ -1,4 +1,4 @@
-Welcome to Getting Started with Sphinx's documentation!
+Sphinx-test documentation
 =======================================================
 
 
@@ -12,3 +12,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 * :ref:`api-reference`
+* :doc:`Simple API reference <source/api_reference>`
